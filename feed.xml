@@ -5,8 +5,16 @@
     <link>https://www.theinsurer.com/</link>
     <description>Latest articles from theinsurer.com, built from the public sitemap. Titles are taken from the article URL.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 08:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 09:37:17 +0000</lastBuildDate>
     <ns0:link href="https://bertwin007.github.io/theinsurer-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Turk warns underwriters risk irrelevance as brokers lead innovation</title>
+      <link>https://www.theinsurer.com/ti/news/turk-warns-underwriters-risk-irrelevance-as-brokers-lead-innovation-2026-11-06/</link>
+      <guid isPermaLink="true">https://www.theinsurer.com/ti/news/turk-warns-underwriters-risk-irrelevance-as-brokers-lead-innovation-2026-11-06/</guid>
+      <pubDate>Fri, 06 Nov 2026 09:37:17 +0000</pubDate>
+      <category>The Insurer</category>
+      <description>The Insurer — 2026-11-06</description>
+    </item>
     <item>
       <title>Liberty specialty markets ltd</title>
       <link>https://www.theinsurer.com/account/enterprise/liberty-specialty-markets-ltd/</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 04 Nov 2026 19:53:43 +0000</pubDate>
       <category>The Insurer</category>
       <description>The Insurer — 2026-11-04</description>
-    </item>
-    <item>
-      <title>Exclusive el nino could drive 28 billion in flood damage to california buildings</title>
-      <link>https://www.theinsurer.com/sustainable-insurance/news/exclusive-el-nino-could-drive-28-billion-in-flood-damage-to-california-buildings-2026-11-04/</link>
-      <guid isPermaLink="true">https://www.theinsurer.com/sustainable-insurance/news/exclusive-el-nino-could-drive-28-billion-in-flood-damage-to-california-buildings-2026-11-04/</guid>
-      <pubDate>Wed, 04 Nov 2026 15:52:11 +0000</pubDate>
-      <category>Sustainable Insurer</category>
-      <description>Sustainable Insurer — 2026-11-04</description>
     </item>
   </channel>
 </rss>
