@@ -5,8 +5,16 @@
     <link>https://www.theinsurer.com/</link>
     <description>Latest articles from theinsurer.com, built from the public sitemap. Titles are taken from the article URL.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 11:19:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:29:15 +0000</lastBuildDate>
     <ns0:link href="https://bertwin007.github.io/theinsurer-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vantage increases gwp 4 to 386 million in q3</title>
+      <link>https://www.theinsurer.com/ti/news/vantage-increases-gwp-4-to-386-million-in-q3-2026-11-06/</link>
+      <guid isPermaLink="true">https://www.theinsurer.com/ti/news/vantage-increases-gwp-4-to-386-million-in-q3-2026-11-06/</guid>
+      <pubDate>Fri, 06 Nov 2026 11:29:15 +0000</pubDate>
+      <category>The Insurer</category>
+      <description>The Insurer — 2026-11-06</description>
+    </item>
     <item>
       <title>Siriuspoint closes the door on the past with riverstone lpt as it frees 200</title>
       <link>https://www.theinsurer.com/ti/news/siriuspoint-closes-the-door-on-the-past-with-riverstone-lpt-as-it-frees-200-2026-11-06/</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 04 Nov 2026 20:48:21 +0000</pubDate>
       <category>The Insurer</category>
       <description>The Insurer — 2026-11-04</description>
-    </item>
-    <item>
-      <title>New global indemnity ceo buss says q3 results came in softer than rest of year</title>
-      <link>https://www.theinsurer.com/e-and-s/news/new-global-indemnity-ceo-buss-says-q3-results-came-in-softer-than-rest-of-year-2026-11-04/</link>
-      <guid isPermaLink="true">https://www.theinsurer.com/e-and-s/news/new-global-indemnity-ceo-buss-says-q3-results-came-in-softer-than-rest-of-year-2026-11-04/</guid>
-      <pubDate>Wed, 04 Nov 2026 20:22:27 +0000</pubDate>
-      <category>E&amp;S Insurer</category>
-      <description>E&amp;S Insurer — 2026-11-04</description>
     </item>
   </channel>
 </rss>
