@@ -5,8 +5,16 @@
     <link>https://www.theinsurer.com/</link>
     <description>Latest articles from theinsurer.com, built from the public sitemap. Titles are taken from the article URL.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 13:36:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:03:46 +0000</lastBuildDate>
     <ns0:link href="https://bertwin007.github.io/theinsurer-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exclusive newport specialty adds octaves webb as chief financial officer</title>
+      <link>https://www.theinsurer.com/program-manager/news/exclusive-newport-specialty-adds-octaves-webb-as-chief-financial-officer-2026-11-09/</link>
+      <guid isPermaLink="true">https://www.theinsurer.com/program-manager/news/exclusive-newport-specialty-adds-octaves-webb-as-chief-financial-officer-2026-11-09/</guid>
+      <pubDate>Mon, 09 Nov 2026 15:03:46 +0000</pubDate>
+      <category>Program Manager</category>
+      <description>Program Manager — 2026-11-09</description>
+    </item>
     <item>
       <title>Ullico casualty to move liability program business to zurich</title>
       <link>https://www.theinsurer.com/program-manager/news/ullico-casualty-to-move-liability-program-business-to-zurich-2026-11-09/</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 05 Nov 2026 17:51:01 +0000</pubDate>
       <category>Program Manager</category>
       <description>Program Manager — 2026-11-05</description>
-    </item>
-    <item>
-      <title>Average cargo theft value up 72 this year verisk</title>
-      <link>https://www.theinsurer.com/ti/news/average-cargo-theft-value-up-72-this-year-verisk-2026-11-05/</link>
-      <guid isPermaLink="true">https://www.theinsurer.com/ti/news/average-cargo-theft-value-up-72-this-year-verisk-2026-11-05/</guid>
-      <pubDate>Thu, 05 Nov 2026 17:46:09 +0000</pubDate>
-      <category>The Insurer</category>
-      <description>The Insurer — 2026-11-05</description>
     </item>
   </channel>
 </rss>
