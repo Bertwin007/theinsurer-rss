@@ -5,8 +5,16 @@
     <link>https://www.theinsurer.com/</link>
     <description>Latest articles from theinsurer.com, built from the public sitemap. Titles are taken from the article URL.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 15:23:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:36:03 +0000</lastBuildDate>
     <ns0:link href="https://bertwin007.github.io/theinsurer-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iceye targets improving the resilience of the apac insurance sector</title>
+      <link>https://www.theinsurer.com/tv/close-quarter/iceye-targets-improving-the-resilience-of-the-apac-insurance-sector-2026-11-10/</link>
+      <guid isPermaLink="true">https://www.theinsurer.com/tv/close-quarter/iceye-targets-improving-the-resilience-of-the-apac-insurance-sector-2026-11-10/</guid>
+      <pubDate>Tue, 10 Nov 2026 15:36:03 +0000</pubDate>
+      <category>The Insurer TV</category>
+      <description>The Insurer TV — 2026-11-10</description>
+    </item>
     <item>
       <title>Concert group services inc</title>
       <link>https://www.theinsurer.com/account/enterprise/concert-group-services-inc/</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 09 Nov 2026 08:00:18 +0000</pubDate>
       <category>The Insurer</category>
       <description>The Insurer — 2026-11-09</description>
-    </item>
-    <item>
-      <title>Cop31 urges delivery outcomes as insurers sharpen focus on incentivising</title>
-      <link>https://www.theinsurer.com/sustainable-insurance/news/cop31-urges-delivery-outcomes-as-insurers-sharpen-focus-on-incentivising-2026-11-09/</link>
-      <guid isPermaLink="true">https://www.theinsurer.com/sustainable-insurance/news/cop31-urges-delivery-outcomes-as-insurers-sharpen-focus-on-incentivising-2026-11-09/</guid>
-      <pubDate>Mon, 09 Nov 2026 07:52:13 +0000</pubDate>
-      <category>Sustainable Insurer</category>
-      <description>Sustainable Insurer — 2026-11-09</description>
     </item>
   </channel>
 </rss>
