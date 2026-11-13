@@ -5,8 +5,16 @@
     <link>https://www.theinsurer.com/</link>
     <description>Latest articles from theinsurer.com, built from the public sitemap. Titles are taken from the article URL.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:56:52 +0000</lastBuildDate>
     <ns0:link href="https://bertwin007.github.io/theinsurer-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trium cyber launches cyber cover with ring fenced limits</title>
+      <link>https://www.theinsurer.com/cyber-risk/news/trium-cyber-launches-cyber-cover-with-ring-fenced-limits-2026-11-11/</link>
+      <guid isPermaLink="true">https://www.theinsurer.com/cyber-risk/news/trium-cyber-launches-cyber-cover-with-ring-fenced-limits-2026-11-11/</guid>
+      <pubDate>Fri, 13 Nov 2026 18:56:52 +0000</pubDate>
+      <category>Cyber Risk</category>
+      <description>Cyber Risk — 2026-11-13</description>
+    </item>
     <item>
       <title>Un disaster risk financing platform aims to unlock 3 billion by 2030</title>
       <link>https://www.theinsurer.com/parametric-insurer/news/un-disaster-risk-financing-platform-aims-to-unlock-3-billion-by-2030-2026-11-13/</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 11 Nov 2026 19:40:27 +0000</pubDate>
       <category>Sustainable Insurer</category>
       <description>Sustainable Insurer — 2026-11-11</description>
-    </item>
-    <item>
-      <title>Ai is increasing the speed of cyberattacks insurance panel says</title>
-      <link>https://www.theinsurer.com/cyber-risk/news/ai-is-increasing-the-speed-of-cyberattacks-insurance-panel-says-2026-11-11/</link>
-      <guid isPermaLink="true">https://www.theinsurer.com/cyber-risk/news/ai-is-increasing-the-speed-of-cyberattacks-insurance-panel-says-2026-11-11/</guid>
-      <pubDate>Wed, 11 Nov 2026 19:34:57 +0000</pubDate>
-      <category>Cyber Risk</category>
-      <description>Cyber Risk — 2026-11-11</description>
     </item>
   </channel>
 </rss>
