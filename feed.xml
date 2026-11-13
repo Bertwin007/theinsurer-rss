@@ -5,8 +5,16 @@
     <link>https://www.theinsurer.com/</link>
     <description>Latest articles from theinsurer.com, built from the public sitemap. Titles are taken from the article URL.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 14:26:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:27:10 +0000</lastBuildDate>
     <ns0:link href="https://bertwin007.github.io/theinsurer-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un disaster risk financing platform aims to unlock 3 billion by 2030</title>
+      <link>https://www.theinsurer.com/parametric-insurer/news/un-disaster-risk-financing-platform-aims-to-unlock-3-billion-by-2030-2026-11-13/</link>
+      <guid isPermaLink="true">https://www.theinsurer.com/parametric-insurer/news/un-disaster-risk-financing-platform-aims-to-unlock-3-billion-by-2030-2026-11-13/</guid>
+      <pubDate>Fri, 13 Nov 2026 16:27:10 +0000</pubDate>
+      <category>Parametric Insurer</category>
+      <description>Parametric Insurer — 2026-11-13</description>
+    </item>
     <item>
       <title>California insurance regulator launches insurable communities framework at cop31</title>
       <link>https://www.theinsurer.com/sustainable-insurance/news/california-insurance-regulator-launches-insurable-communities-framework-at-cop31-2026-11-13/</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 11 Nov 2026 19:34:57 +0000</pubDate>
       <category>Cyber Risk</category>
       <description>Cyber Risk — 2026-11-11</description>
-    </item>
-    <item>
-      <title>Specialty loss activity creates pockets of reinsurance hardening conduit ceo</title>
-      <link>https://www.theinsurer.com/ti/news/specialty-loss-activity-creates-pockets-of-reinsurance-hardening-conduit-ceo-2026-11-11/</link>
-      <guid isPermaLink="true">https://www.theinsurer.com/ti/news/specialty-loss-activity-creates-pockets-of-reinsurance-hardening-conduit-ceo-2026-11-11/</guid>
-      <pubDate>Wed, 11 Nov 2026 19:21:54 +0000</pubDate>
-      <category>The Insurer</category>
-      <description>The Insurer — 2026-11-11</description>
     </item>
   </channel>
 </rss>
