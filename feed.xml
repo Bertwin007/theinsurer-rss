@@ -5,8 +5,16 @@
     <link>https://www.theinsurer.com/</link>
     <description>Latest articles from theinsurer.com, built from the public sitemap. Titles are taken from the article URL.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 22:26:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 18:59:00 +0000</lastBuildDate>
     <ns0:link href="https://bertwin007.github.io/theinsurer-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exclusive inigo and beazley share lead nvidias up to 950 million side a do tower</title>
+      <link>https://www.theinsurer.com/ti/news/exclusive-inigo-and-beazley-share-lead-nvidias-up-to-950-million-side-a-do-tower-2026-11-14/</link>
+      <guid isPermaLink="true">https://www.theinsurer.com/ti/news/exclusive-inigo-and-beazley-share-lead-nvidias-up-to-950-million-side-a-do-tower-2026-11-14/</guid>
+      <pubDate>Sat, 14 Nov 2026 18:59:00 +0000</pubDate>
+      <category>The Insurer</category>
+      <description>The Insurer — 2026-11-14</description>
+    </item>
     <item>
       <title>Marsh re expects minimal insurance market impact from microsoft outage</title>
       <link>https://www.theinsurer.com/cyber-risk/news/marsh-re-expects-minimal-insurance-market-impact-from-microsoft-outage-2026-11-13/</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 11 Nov 2026 21:11:47 +0000</pubDate>
       <category>Program Manager</category>
       <description>Program Manager — 2026-11-11</description>
-    </item>
-    <item>
-      <title>Sompo re issues coalition re cancellation notice and engages lockton re to</title>
-      <link>https://www.theinsurer.com/cyber-risk/news/sompo-re-issues-coalition-re-cancellation-notice-and-engages-lockton-re-to-2026-11-11/</link>
-      <guid isPermaLink="true">https://www.theinsurer.com/cyber-risk/news/sompo-re-issues-coalition-re-cancellation-notice-and-engages-lockton-re-to-2026-11-11/</guid>
-      <pubDate>Wed, 11 Nov 2026 20:35:51 +0000</pubDate>
-      <category>Cyber Risk</category>
-      <description>Cyber Risk — 2026-11-11</description>
     </item>
   </channel>
 </rss>
