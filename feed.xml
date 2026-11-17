@@ -5,8 +5,16 @@
     <link>https://www.theinsurer.com/</link>
     <description>Latest articles from theinsurer.com, built from the public sitemap. Titles are taken from the article URL.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 19:17:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:24:25 +0000</lastBuildDate>
     <ns0:link href="https://bertwin007.github.io/theinsurer-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Core specialty and fidelis filings suggest pc ipos may pick up after slow year</title>
+      <link>https://www.theinsurer.com/ti/analysis/core-specialty-and-fidelis-filings-suggest-pc-ipos-may-pick-up-after-slow-year-2026-11-17/</link>
+      <guid isPermaLink="true">https://www.theinsurer.com/ti/analysis/core-specialty-and-fidelis-filings-suggest-pc-ipos-may-pick-up-after-slow-year-2026-11-17/</guid>
+      <pubDate>Tue, 17 Nov 2026 19:24:25 +0000</pubDate>
+      <category>The Insurer</category>
+      <description>The Insurer — 2026-11-17</description>
+    </item>
     <item>
       <title>Workers comp margins tighten as claim frequency signals potential market turn</title>
       <link>https://www.theinsurer.com/ti/analysis/workers-comp-margins-tighten-as-claim-frequency-signals-potential-market-turn-2026-11-17/</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 13 Nov 2026 14:25:56 +0000</pubDate>
       <category>Parametric Insurer</category>
       <description>Parametric Insurer — 2026-11-13</description>
-    </item>
-    <item>
-      <title>Microsoft outage could generate 700 million in insured losses kovrr</title>
-      <link>https://www.theinsurer.com/ti/news/microsoft-outage-could-generate-700-million-in-insured-losses-kovrr-2026-11-13/</link>
-      <guid isPermaLink="true">https://www.theinsurer.com/ti/news/microsoft-outage-could-generate-700-million-in-insured-losses-kovrr-2026-11-13/</guid>
-      <pubDate>Fri, 13 Nov 2026 14:22:53 +0000</pubDate>
-      <category>The Insurer</category>
-      <description>The Insurer — 2026-11-13</description>
     </item>
   </channel>
 </rss>
