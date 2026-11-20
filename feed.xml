@@ -5,8 +5,16 @@
     <link>https://www.theinsurer.com/</link>
     <description>Latest articles from theinsurer.com, built from the public sitemap. Titles are taken from the article URL.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 15:50:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:32:56 +0000</lastBuildDate>
     <ns0:link href="https://bertwin007.github.io/theinsurer-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relations mauge sees mini hard market for law firms as cyber claims rise</title>
+      <link>https://www.theinsurer.com/tv/news-in-focus/relations-mauge-sees-mini-hard-market-for-law-firms-as-cyber-claims-rise-2026-11-20/</link>
+      <guid isPermaLink="true">https://www.theinsurer.com/tv/news-in-focus/relations-mauge-sees-mini-hard-market-for-law-firms-as-cyber-claims-rise-2026-11-20/</guid>
+      <pubDate>Fri, 20 Nov 2026 16:32:56 +0000</pubDate>
+      <category>The Insurer TV</category>
+      <description>The Insurer TV — 2026-11-20</description>
+    </item>
     <item>
       <title>Qbes brown calls for cyber rate increases warns against blanket exclusions</title>
       <link>https://www.theinsurer.com/tv/news-in-focus/qbes-brown-calls-for-cyber-rate-increases-warns-against-blanket-exclusions-2026-11-20/</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 18 Nov 2026 20:34:46 +0000</pubDate>
       <category>The Insurer</category>
       <description>The Insurer — 2026-11-18</description>
-    </item>
-    <item>
-      <title>Testudo shifts ai liability distribution to us wholesale brokers</title>
-      <link>https://www.theinsurer.com/e-and-s/news/testudo-shifts-ai-liability-distribution-to-us-wholesale-brokers-2026-11-18/</link>
-      <guid isPermaLink="true">https://www.theinsurer.com/e-and-s/news/testudo-shifts-ai-liability-distribution-to-us-wholesale-brokers-2026-11-18/</guid>
-      <pubDate>Wed, 18 Nov 2026 20:24:25 +0000</pubDate>
-      <category>E&amp;S Insurer</category>
-      <description>E&amp;S Insurer — 2026-11-18</description>
     </item>
   </channel>
 </rss>
