@@ -5,8 +5,16 @@
     <link>https://www.theinsurer.com/</link>
     <description>Latest articles from theinsurer.com, built from the public sitemap. Titles are taken from the article URL.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 10:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:22:24 +0000</lastBuildDate>
     <ns0:link href="https://bertwin007.github.io/theinsurer-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conduit re promotes hampton to lead strategic engagement</title>
+      <link>https://www.theinsurer.com/ti/news/conduit-re-promotes-hampton-to-lead-strategic-engagement-2026-11-20/</link>
+      <guid isPermaLink="true">https://www.theinsurer.com/ti/news/conduit-re-promotes-hampton-to-lead-strategic-engagement-2026-11-20/</guid>
+      <pubDate>Fri, 20 Nov 2026 11:22:24 +0000</pubDate>
+      <category>The Insurer</category>
+      <description>The Insurer — 2026-11-20</description>
+    </item>
     <item>
       <title>Why headline cyber incidents have yet to trigger a claims surge</title>
       <link>https://www.theinsurer.com/ti/analysis/why-headline-cyber-incidents-have-yet-to-trigger-a-claims-surge-2026-11-20/</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 18 Nov 2026 18:34:27 +0000</pubDate>
       <category>The Insurer</category>
       <description>The Insurer — 2026-11-18</description>
-    </item>
-    <item>
-      <title>Climate risk modelling not enough to value and reward resilience unep summit</title>
-      <link>https://www.theinsurer.com/sustainable-insurance/news/climate-risk-modelling-not-enough-to-value-and-reward-resilience-unep-summit-2026-11-18/</link>
-      <guid isPermaLink="true">https://www.theinsurer.com/sustainable-insurance/news/climate-risk-modelling-not-enough-to-value-and-reward-resilience-unep-summit-2026-11-18/</guid>
-      <pubDate>Wed, 18 Nov 2026 18:25:00 +0000</pubDate>
-      <category>Sustainable Insurer</category>
-      <description>Sustainable Insurer — 2026-11-18</description>
     </item>
   </channel>
 </rss>
